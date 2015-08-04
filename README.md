@@ -18,7 +18,7 @@
 # Installation
 First you must install the following libraries on your computer
 
-   - OpenCV version 2.4.10+
+   - OpenCV version 2.4.10+ [http://opencv.org/]
    - Python 2.7.10 (or any later Python 2.x) (See Installation on OS X if using a Mac)
    - Numpy 1.8.0 (or any later Numpy)
 
