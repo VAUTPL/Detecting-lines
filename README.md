@@ -4,7 +4,14 @@
 # UTPL
 
 #Professor:
-- Rodrigo Barba    lrbarba@utpl.edu.ec
+- Rodrigo Barba        lrbarba@utpl.edu.ec
 
 #Student:
-- Jonas Carrillo   jonascs1692@gmail.com
+- Jonas Carrillo       jonascs1692@gmail.com
+
+#System Requirements
+- An i3 or better processor. The faster the better, especially at high video resolutions.
+- 2 GB or more RAM.
+- At least 100 MB Free Disk space
+- Windows 7 or later, OS X 10.8 or later (has only been tested on 10.9), Linux 3.0+
+
