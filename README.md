@@ -1,6 +1,8 @@
 # Detecting-lines
  Detection of lines using opencv and python.
- This Initial system shows basic concepts of machine vision in assisted driving.The code is free to be used and modified  by anybody who wishes to do so.
+ This Initial system shows basic concepts of machine vision in assisted driving.The code is free to be used and        modified  by anybody who wishes to do so.
+ Video results: [Detecting Lines Opencv Python ](https://www.youtube.com/watch?v=QfLuZO_zz24)
+ 
 # UTPL
 
 #Professor:
