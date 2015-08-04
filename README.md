@@ -33,5 +33,11 @@ Replacing Apple's system Python with an unsupported version may break things. Th
 
 Where 2.x.y is the version number of your Python.
 
+#Running the code in Linux
+Instructions to run the code from linux console
+1 Open Terminal 
+2 Write the path of our .py file, in my case `cd Documentos/Data/`==>Press Enter
+3 Writhe `ls` ==>Press Enter
+
 
 
