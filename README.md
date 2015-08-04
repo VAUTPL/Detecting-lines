@@ -35,11 +35,11 @@ Where 2.x.y is the version number of your Python.
 
 #Running the code in Linux
 Instructions to run the code from linux console
-1. Open Terminal 
-2. Write the path of our .py file, in my case `cd Documentos/Data/`==>Press Enter
-3. Writhe `ls` ==>Press Enter  the following files are displayed in console " DETECTION OF LINES.xlsx  Detect_Lines_day.py  Detect_Lines_night.py  README.txt  videos"
-4. Write the full name of the .py file as follows
+1.  Open Terminal 
+2.  Write the path of our .py file, in my case `cd Documentos/Data/`==>Press Enter
+3.  Writhe `ls` ==>Press Enter  the following files are displayed in console " DETECTION OF LINES.xlsx  Detect_Lines_day.py  Detect_Lines_night.py  README.txt  videos"
+4.  Write the full name of the .py file as follows
 - example: "python Detect_Lines_day.py"
-5. PRESS ENTER AND RUN THE PROGRAM
+5.  PRESS ENTER AND RUN THE PROGRAM
 
 
