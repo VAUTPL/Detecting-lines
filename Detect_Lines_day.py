@@ -1,12 +1,12 @@
-#==============================================================================
-# PROJECT : ASSISTED DRIVING BY ARTIFICIAL VISION                             *
-#         : (DETECTING LINES ON THE DAY)                                      *
-# VERSION : 1.0                                                               *
-# AUTHOR  : Jonas Carrillo Sisalima                                           *
-# TUTOR   : Ing. Rodrigo Barba                                                *
-# COMPANY : Sic ElectriTelecom  Loja-Ecuador                                  *
-# DTAE    : 13/07/2015                                                        *
-#==============================================================================
+#================================================================================
+# PROJECT   : ASSISTED DRIVING BY ARTIFICIAL VISION                             *
+#           : (DETECTING LINES ON THE DAY)                                      *
+# VERSION   : 1.0                                                               *
+# AUTHOR    : Jonas Carrillo Sisalima           jonascs1692@gmail.com           *
+# PROFESSOR : Rodrigo Barba                     lrbarba@utpl.edu.ec             *
+# COMPANY   : Sic ElectriTelecom  Loja-Ecuador                                  *
+# DTAE      : 13/07/2015                                                        *
+#================================================================================
 
 #Import packages needed
 import numpy as np
