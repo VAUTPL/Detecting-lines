@@ -15,3 +15,10 @@
 - At least 100 MB Free Disk space
 - Windows 7 or later, OS X 10.8 or later (has only been tested on 10.9), Linux 3.0+
 
+# Installation
+First you must install the following libraries on your computer
+    OpenCV version 2.4.10+
+    Python 2.7.9 (or any later Python 2.x) (See Installation on OS X if using a Mac)
+    Numpy 1.9.2+
+
+
