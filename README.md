@@ -7,7 +7,7 @@
 - Rodrigo Barba        [lrbarba@utpl.edu.ec](mailto:lrbarba@utpl.edu.ec)
 
 #Student:
-- Jonas Carrillo       [jonascs1692@gmail.com](jonascs1692@gmail.com)
+- Jonas Carrillo       [jonascs1692@gmail.com](https://mail.google.com/mail/?tab=wm#inbox)
 
 #System Requirements
 - An i3 or better processor. The faster the better, especially at high video resolutions.
