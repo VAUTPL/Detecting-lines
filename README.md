@@ -22,4 +22,9 @@ First you must install the following libraries on your computer
    - Python 2.7.10 (or any later Python 2.x) (See Installation on OS X if using a Mac) [https://www.python.org/]
    - Numpy 1.8.0 (or any later Numpy)  [http://www.numpy.org/]
 
+#Installation on OS X
+Apple uses a prior version of Python that does not support the latest Python libraries. One work around is to install Python with Homebrew:
+$ brew install python
+
+
 
