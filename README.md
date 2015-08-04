@@ -4,10 +4,10 @@
 # UTPL
 
 #Professor:
-- Rodrigo Barba        lrbarba@utpl.edu.ec
+- Rodrigo Barba        [lrbarba@utpl.edu.ec](mailto:lrbarba@utpl.edu.ec)
 
 #Student:
-- Jonas Carrillo       jonascs1692@gmail.com
+- Jonas Carrillo       [jonascs1692@gmail.com](jonascs1692@gmail.com)
 
 #System Requirements
 - An i3 or better processor. The faster the better, especially at high video resolutions.
@@ -18,13 +18,20 @@
 # Installation
 First you must install the following libraries on your computer
 
-   - OpenCV version 2.4.10+ [http://opencv.org/]
-   - Python 2.7.10 (or any later Python 2.x) (See Installation on OS X if using a Mac) [https://www.python.org/]
-   - Numpy 1.8.0 (or any later Numpy)  [http://www.numpy.org/]
+   - [OpenCV](http://opencv.org/) version 2.4.10+ 
+   - [Python](https://www.python.org/) 2.7.10 (or any later Python 2.x) ([See Installation on OS X if using a Mac](#installation-on-os-x)) 
+   - [Numpy](http://www.numpy.org/) 1.8.0 (or any later Numpy)  
 
 #Installation on OS X
 Apple uses a prior version of Python that does not support the latest Python libraries. One work around is to install Python with Homebrew:
-$ brew install python
+
+`$ brew install python`
+
+Replacing Apple's system Python with an unsupported version may break things. Therefore we linked Homebrew's Python into the system path without replacing the system Python:
+
+`$ ln -s /usr/local/Cellar/python/2.x.y/bin/python /bin/hbpython`
+
+Where 2.x.y is the version number of your Python.
 
 
 
