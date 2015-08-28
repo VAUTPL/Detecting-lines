@@ -5,7 +5,7 @@
 # AUTHOR    : Jonas Carrillo Sisalima           jonascs1692@gmail.com           *
 # PROFESSOR : Rodrigo Barba                     lrbarba@utpl.edu.ec             *
 # COMPANY   : Sic ElectriTelecom  Loja-Ecuador                                  *
-# DTAE      : 13/07/2015                                                        *
+# DATE      : 13/07/2015                                                        *
 #================================================================================
 
 #Import packages needed
